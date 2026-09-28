@@ -1,3 +1,32 @@
 # Syllabus {.unnumbered}
 
-*Syllabus not yet generated. Run `coursecraft update` to populate this page.*
+|  |  |
+| :--- | :--- |
+| **Course** | PHIL 20100: Introduction to Logic |
+| **Term** | Winter 2027 |
+| **Instructor** | Anubav Vasudevan |
+| **Location** | Cobb 201 |
+| **Meeting times** | MWF 10:30–11:20 |
+
+## Schedule
+
+### Introduction
+
+| Date | Topic |
+| :--- | :--- |
+| Sep 20 | This is a test! |
+
+### Argument, Validity & Proof
+
+| Date | Topic |
+| :--- | :--- |
+| Sep 24 | Arguments |
+| Sep 28 | Validity |
+| Oct 1 | Proofs |
+| Oct 4 | Soundness and Completeness |
+
+## Assignments
+
+|  | Assigned | Due |
+| :--- | :--- | :--- |
+| Homework 1 | Sep 21 | Oct 23 |
