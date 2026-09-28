@@ -1,0 +1,3 @@
+# Syllabus {.unnumbered}
+
+*Syllabus not yet generated. Run `coursecraft update` to populate this page.*
