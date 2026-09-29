@@ -2,11 +2,14 @@
 
 |  |  |
 | :--- | :--- |
-| **Course** | PHIL 20100: Introduction to Logic |
-| **Term** | Winter 2027 |
+| **Course** | PHIL 20012/30012: Accelerated Introduction to Logic |
+| **Term** | Fall 2026 |
 | **Instructor** | Anubav Vasudevan |
-| **Location** | Cobb 201 |
-| **Meeting times** | MWF 10:30–11:20 |
+| **Location** | Cobb 107 |
+| **Meeting times** | TH 12:30-1:50 |
+
+This course provides an introduction to logic for students of philosophy. Students will first be introduced to the core concepts of logic: argument, validity, and proof. Understanding of these concepts will be reinforced  through a detailed study of syllogistic and propositional logic, culminating in proofs of the soundness and completeness of proof systems for each. This coures satisfies the Department of Philosophy's logic requirement for the philosophy major. 
+
 
 ## Schedule
 
@@ -14,14 +17,12 @@
 
 | Date | Topic |
 | :--- | :--- |
-| Sep 20 | This is a test! |
+| Sep 28 | Introduction |
 
 ### Argument, Validity & Proof
 
 | Date | Topic |
 | :--- | :--- |
-| Sep 24 | Arguments |
-| Sep 28 | Validity |
 | Oct 1 | Proofs |
 | Oct 4 | Soundness and Completeness |
 
@@ -29,4 +30,4 @@
 
 |  | Assigned | Due |
 | :--- | :--- | :--- |
-| Homework 1 | Sep 21 | Oct 23 |
+| Homework 1 | Oct 21 | Oct 23 |
