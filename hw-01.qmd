@@ -2,7 +2,7 @@
 
 {{< include /assets/macros/macros.qmd >}}
 
-**Due: October 23, 2026**
+**Due: October 6, 2026**
 
 @exr-expressions
 

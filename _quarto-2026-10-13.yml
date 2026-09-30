@@ -1,10 +1,12 @@
 project:
-  output-dir: _book/2026-10-04
+  output-dir: _book/2026-10-13
 book:
   chapters:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
   - hw-01.qmd
+  - hw-02.qmd
+  - hw-03.qmd
   appendices:
   - appendices/A-general-notation.qmd
   - appendices/B-induction.qmd

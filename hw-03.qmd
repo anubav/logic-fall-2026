@@ -1,0 +1,9 @@
+# Homework 3 {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+**Due: October 20, 2026**
+
+@exr-expressions
+
+{{< include /exercises/expressions.qmd >}}

@@ -1,10 +1,13 @@
 project:
-  output-dir: _book/2026-10-21
+  output-dir: _book/2026-10-20
 book:
   chapters:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
   - hw-01.qmd
+  - hw-02.qmd
+  - hw-03.qmd
+  - hw-04.qmd
   appendices:
   - appendices/A-general-notation.qmd
   - appendices/B-induction.qmd
@@ -16,9 +19,9 @@ metadata:
     sec-argument-validity-proof: true
     sec-argument-validity-proof-introduction: true
     sec-argument-validity-proof-arguments: true
-    sec-argument-validity-proof-validity: false
+    sec-argument-validity-proof-validity: true
     sec-argument-validity-proof-proofs: false
-    sec-argument-validity-proof-soundness-and-completeness: true
+    sec-argument-validity-proof-soundness-and-completeness: false
     sec-argument-validity-proof-references-unnumbered: false
     sec-syllogistic-logic: false
     sec-syllogistic-logic-introduction: false

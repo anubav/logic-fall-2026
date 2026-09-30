@@ -1,0 +1,9 @@
+# Exam 2 {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+**Due: November 17, 2026**
+
+@exr-expressions
+
+{{< include /exercises/expressions.qmd >}}

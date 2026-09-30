@@ -24,10 +24,19 @@ This course provides an introduction to logic for students of philosophy. Studen
 | Date | Topic |
 | :--- | :--- |
 | Sep 30 | Arguments |
-| Oct 4 | Soundness and Completeness |
+| Oct 4 | Validity |
 
 ## Assignments
 
 |  | Assigned | Due |
 | :--- | :--- | :--- |
-| Homework 1 | Oct 21 | Oct 23 |
+| Homework 1 | Oct 1 | Oct 6 |
+| Homework 2 | Oct 6 | Oct 13 |
+| Homework 3 | Oct 13 | Oct 20 |
+| Exam 1 | Oct 20 | Oct 27 |
+| Homework 4 | Oct 27 | Nov 3 |
+| Homework 5 | Nov 3 | Nov 10 |
+| Exam 2 | Nov 10 | Nov 17 |
+| Homework 6 | Nov 17 | Dec 1 |
+| Homework 7 | Nov 26 | Dec 3 |
+| Exam 3 | Dec 4 | Dec 11 |
