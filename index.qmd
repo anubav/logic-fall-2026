@@ -42,16 +42,16 @@ This course provides an introduction to logic for students of philosophy. Studen
 ::: {#coursecraft-assignments}
 |  | Assigned | Due |
 | :--- | :--- | :--- |
-| [Homework 1](hw-01.qmd) | Oct 1 | Oct 6 |
-| [Homework 2](hw-02.qmd) | Oct 6 | Oct 13 |
-| [Homework 3](hw-03.qmd) | Oct 13 | Oct 20 |
-| [Exam 1](hw-04.qmd) | Oct 20 | Oct 27 |
-| [Homework 4](hw-05.qmd) | Oct 27 | Nov 3 |
-| [Homework 5](hw-06.qmd) | Nov 3 | Nov 10 |
-| [Exam 2](hw-07.qmd) | Nov 10 | Nov 17 |
-| [Homework 6](hw-08.qmd) | Nov 17 | Dec 1 |
-| [Homework 7](hw-09.qmd) | Nov 26 | Dec 3 |
-| [Exam 3](hw-10.qmd) | Dec 4 | Dec 11 |
+| [Homework 1](#){data-hw-stem="hw-01"} | Oct 1 | Oct 6 |
+| [Homework 2](#){data-hw-stem="hw-02"} | Oct 6 | Oct 13 |
+| [Homework 3](#){data-hw-stem="hw-03"} | Oct 13 | Oct 20 |
+| [Exam 1](#){data-hw-stem="hw-04"} | Oct 20 | Oct 27 |
+| [Homework 4](#){data-hw-stem="hw-05"} | Oct 27 | Nov 3 |
+| [Homework 5](#){data-hw-stem="hw-06"} | Nov 3 | Nov 10 |
+| [Exam 2](#){data-hw-stem="hw-07"} | Nov 10 | Nov 17 |
+| [Homework 6](#){data-hw-stem="hw-08"} | Nov 17 | Dec 1 |
+| [Homework 7](#){data-hw-stem="hw-09"} | Nov 26 | Dec 3 |
+| [Exam 3](#){data-hw-stem="hw-10"} | Dec 4 | Dec 11 |
 :::
 
 ```{=html}
@@ -73,13 +73,15 @@ document.addEventListener('DOMContentLoaded', function () {
   }
   var hw = window.coursecraftHwFiles;
   if (hw) {
-    document.querySelectorAll('#coursecraft-assignments a[href]').forEach(function (a) {
-      var base = a.href.split('/').pop().replace('.html', '');
-      var solFile = base + '-solutions.html';
-      var baseFile = base + '.html';
+    document.querySelectorAll('#coursecraft-assignments a[data-hw-stem]').forEach(function (a) {
+      var stem = a.getAttribute('data-hw-stem');
+      var solFile = stem + '-solutions.html';
+      var baseFile = stem + '.html';
       if (hw.indexOf(solFile) !== -1) {
         a.href = solFile;
-      } else if (hw.indexOf(baseFile) === -1) {
+      } else if (hw.indexOf(baseFile) !== -1) {
+        a.href = baseFile;
+      } else {
         deadLink(a);
       }
     });
