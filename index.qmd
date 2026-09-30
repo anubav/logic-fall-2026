@@ -1,4 +1,5 @@
 ---
+title: "Accelerated Introduction to Logic"
 number-sections: false
 ---
 
@@ -7,7 +8,7 @@ This course provides an introduction to logic for students of philosophy. Studen
 
 |  |  |
 | :--- | :--- |
-| **Course** | PHIL 20012/30012: Accelerated Introduction to Logic |
+| **Course** | PHIL 20012/30012 |
 | **Term** | Fall 2026 |
 | **Instructor** | [Anubav Vasudevan](mailto:anubav@uchicago.edu) |
 | **Location** | Cobb 107 |
@@ -18,20 +19,20 @@ This course provides an introduction to logic for students of philosophy. Studen
 | Date | Topic |
 | :--- | :--- |
 | **Introduction** |  |
-| Sep 29 | Introduction |
+| Sep 29 | [Introduction](chapters/00-introduction.qmd#sec-introduction) |
 | **Argument, Validity & Proof** |  |
-| Oct 1 | Arguments |
-| Oct 6 | Validity |
-| Oct 8 | Proofs |
-| Oct 13 | Soundness and Completeness |
+| Oct 1 | [Arguments](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-introduction) |
+| Oct 6 | [Validity](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-validity) |
+| Oct 8 | [Proofs](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-proofs) |
+| Oct 13 | [Soundness and Completeness](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-soundness-and-completeness) |
 | **Syllogistic Logic** |  |
-| Oct 20 | The Syntax and Semantics of Syllogistic Logic |
-| Oct 27 | Extensional Semantics and Indirect Proofs |
-| Nov 3 | The Soundness and Completeness of Syllogistic Logic |
+| Oct 20 | [The Syntax and Semantics of Syllogistic Logic](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-introduction) |
+| Oct 27 | [Extensional Semantics and Indirect Proofs](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-proofs-in-syllogistic-logic) |
+| Nov 3 | [The Soundness and Completeness of Syllogistic Logic](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-the-extensional-soundness-and-completeness-of) |
 | **Propositional Logic** |  |
-| Nov 10 | Unique Readability and Truth Tables |
-| Nov 17 | Proofs in Propositional Logic |
-| Dec 1 | The Soundness and Completeness of Propositional Logic |
+| Nov 10 | [Unique Readability and Truth Tables](chapters/03-propositional-logic.qmd#sec-propositional-logic-introduction) |
+| Nov 17 | [Proofs in Propositional Logic](chapters/03-propositional-logic.qmd#sec-propositional-logic-proofs-in-propositional-logic) |
+| Dec 1 | [The Soundness and Completeness of Propositional Logic](chapters/03-propositional-logic.qmd#sec-propositional-logic-the-soundness-and-completeness-of) |
 
 ## Assignments
 
