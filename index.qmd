@@ -39,34 +39,51 @@ This course provides an introduction to logic for students of philosophy. Studen
 
 ## Assignments
 
+::: {#coursecraft-assignments}
 |  | Assigned | Due |
 | :--- | :--- | :--- |
-| Homework 1 | Oct 1 | Oct 6 |
-| Homework 2 | Oct 6 | Oct 13 |
-| Homework 3 | Oct 13 | Oct 20 |
-| Exam 1 | Oct 20 | Oct 27 |
-| Homework 4 | Oct 27 | Nov 3 |
-| Homework 5 | Nov 3 | Nov 10 |
-| Exam 2 | Nov 10 | Nov 17 |
-| Homework 6 | Nov 17 | Dec 1 |
-| Homework 7 | Nov 26 | Dec 3 |
-| Exam 3 | Dec 4 | Dec 11 |
+| [Homework 1](hw-01.qmd) | Oct 1 | Oct 6 |
+| [Homework 2](hw-02.qmd) | Oct 6 | Oct 13 |
+| [Homework 3](hw-03.qmd) | Oct 13 | Oct 20 |
+| [Exam 1](hw-04.qmd) | Oct 20 | Oct 27 |
+| [Homework 4](hw-05.qmd) | Oct 27 | Nov 3 |
+| [Homework 5](hw-06.qmd) | Nov 3 | Nov 10 |
+| [Exam 2](hw-07.qmd) | Nov 10 | Nov 17 |
+| [Homework 6](hw-08.qmd) | Nov 17 | Dec 1 |
+| [Homework 7](hw-09.qmd) | Nov 26 | Dec 3 |
+| [Exam 3](hw-10.qmd) | Dec 4 | Dec 11 |
+:::
 
 ```{=html}
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  function deadLink(a) {
+    a.style.color = 'inherit';
+    a.style.textDecoration = 'none';
+    a.style.cursor = 'default';
+    a.style.opacity = '0.4';
+    a.addEventListener('click', function (e) { e.preventDefault(); });
+  }
   var s = window.coursecraftSections;
-  if (!s) return;
-  document.querySelectorAll('#coursecraft-schedule a[href]').forEach(function (a) {
-    var label = a.href.split('#')[1];
-    if (label && s[label] === false) {
-      a.style.color = 'inherit';
-      a.style.textDecoration = 'none';
-      a.style.cursor = 'default';
-      a.style.opacity = '0.4';
-      a.addEventListener('click', function (e) { e.preventDefault(); });
-    }
-  });
+  if (s) {
+    document.querySelectorAll('#coursecraft-schedule a[href]').forEach(function (a) {
+      var label = a.href.split('#')[1];
+      if (label && s[label] === false) deadLink(a);
+    });
+  }
+  var hw = window.coursecraftHwFiles;
+  if (hw) {
+    document.querySelectorAll('#coursecraft-assignments a[href]').forEach(function (a) {
+      var base = a.href.split('/').pop().replace('.html', '');
+      var solFile = base + '-solutions.html';
+      var baseFile = base + '.html';
+      if (hw.indexOf(solFile) !== -1) {
+        a.href = solFile;
+      } else if (hw.indexOf(baseFile) === -1) {
+        deadLink(a);
+      }
+    });
+  }
 });
 </script>
 ```
