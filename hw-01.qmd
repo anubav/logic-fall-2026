@@ -4,10 +4,14 @@
 
 **Due: October 6, 2026**
 
-@exr-expressions
+@exr-outside-reading
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/outside-reading.qmd >}}
 
-@exr-semantic-notions
+@exr-greek
 
-{{< include /exercises/semantic-notions.qmd >}}
+{{< include /exercises/greek.qmd >}}
+
+@exr-russell
+
+{{< include /exercises/russell.qmd >}}
