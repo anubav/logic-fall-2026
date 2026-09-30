@@ -36,6 +36,7 @@ lectures:
           - sec-argument-validity-proof-arguments
           - sec-argument-validity-proof-references-unnumbered
           - sec-induction-inductive-definitions
+          - sec-induction-proof-by-induction
       - name: "Validity"
         date: 2026-10-06
         sections:
