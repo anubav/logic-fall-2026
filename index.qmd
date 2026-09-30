@@ -17,15 +17,15 @@ This course provides an introduction to logic for students of philosophy. Studen
 
 | Date | Topic |
 | :--- | :--- |
-| Sep 28 | Introduction |
+| Sep 29 | Introduction |
 
 ### Argument, Validity & Proof
 
 | Date | Topic |
 | :--- | :--- |
-| Sep 30 | Arguments |
-| Oct 4 | Validity |
-| Oct 6 | Proofs |
+| Oct 1 | Arguments |
+| Oct 6 | Validity |
+| Oct 8 | Proofs |
 | Oct 13 | Soundness and Completeness |
 
 ### Syllogistic Logic

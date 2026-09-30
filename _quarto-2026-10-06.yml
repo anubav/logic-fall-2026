@@ -18,7 +18,7 @@ metadata:
     sec-argument-validity-proof-introduction: true
     sec-argument-validity-proof-arguments: true
     sec-argument-validity-proof-validity: true
-    sec-argument-validity-proof-proofs: true
+    sec-argument-validity-proof-proofs: false
     sec-argument-validity-proof-soundness-and-completeness: false
     sec-argument-validity-proof-references-unnumbered: true
     sec-syllogistic-logic: false
