@@ -3,5 +3,8 @@
   "2026-09-30": "sec-argument-validity-proof-introduction",
   "2026-10-04": "sec-argument-validity-proof-validity",
   "2026-10-06": "sec-argument-validity-proof-proofs",
-  "2026-10-11": "sec-argument-validity-proof-soundness-and-completeness"
+  "2026-10-13": "sec-argument-validity-proof-soundness-and-completeness",
+  "2026-10-20": "sec-syllogistic-logic-introduction",
+  "2026-10-27": "sec-syllogistic-logic-proofs-in-syllogistic-logic",
+  "2026-11-03": "sec-syllogistic-logic-the-extensional-soundness-and-completeness-of"
 }

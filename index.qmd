@@ -26,7 +26,15 @@ This course provides an introduction to logic for students of philosophy. Studen
 | Sep 30 | Arguments |
 | Oct 4 | Validity |
 | Oct 6 | Proofs |
-| Oct 11 | Soundness and Completeness |
+| Oct 13 | Soundness and Completeness |
+
+### Syllogistic Logic
+
+| Date | Topic |
+| :--- | :--- |
+| Oct 20 | The Syntax and Semantics of Syllogistic Logic |
+| Oct 27 | Proofs in Syllogistic Logic |
+| Nov 3 | The Soundness and Completeness of Syllogistic Logic |
 
 ## Assignments
 

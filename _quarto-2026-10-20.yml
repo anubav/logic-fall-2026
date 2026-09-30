@@ -4,6 +4,7 @@ book:
   chapters:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
+  - chapters/02-syllogistic-logic.qmd
   - hw-01.qmd
   - hw-02.qmd
   - hw-03.qmd
@@ -23,12 +24,12 @@ metadata:
     sec-argument-validity-proof-proofs: true
     sec-argument-validity-proof-soundness-and-completeness: true
     sec-argument-validity-proof-references-unnumbered: true
-    sec-syllogistic-logic: false
-    sec-syllogistic-logic-introduction: false
-    sec-syllogistic-logic-the-syntax-and-semantics-of-syllogistic-logic: false
+    sec-syllogistic-logic: true
+    sec-syllogistic-logic-introduction: true
+    sec-syllogistic-logic-the-syntax-and-semantics-of-syllogistic-logic: true
     sec-syllogistic-logic-proofs-in-syllogistic-logic: false
     sec-syllogistic-logic-the-extensional-soundness-and-completeness-of: false
-    sec-syllogistic-logic-references-unnumbered: false
+    sec-syllogistic-logic-references-unnumbered: true
     sec-propositional-logic: false
     sec-propositional-logic-introduction: false
     sec-propositional-logic-the-syntax-and-semantics-of-propositional-logic: false
