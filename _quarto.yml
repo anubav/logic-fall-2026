@@ -1,7 +1,7 @@
 project:
   type: book
 book:
-  title: Introduction to Logic
+  title: Accelerated Introduction to Logic
   comments:
     hypothesis: true
   page-navigation: true
