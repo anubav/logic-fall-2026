@@ -4,16 +4,17 @@ book:
   chapters:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
-  appendices: []
+  appendices:
+  - appendices/A-general-notation.qmd
 metadata:
   sections:
     sec-introduction: true
     sec-introduction-why-study-logic: true
     sec-introduction-references: true
     sec-argument-validity-proof: true
-    sec-argument-validity-proof-introduction: true
-    sec-argument-validity-proof-arguments: true
-    sec-argument-validity-proof-validity: true
+    sec-argument-validity-proof-introduction: false
+    sec-argument-validity-proof-arguments: false
+    sec-argument-validity-proof-validity: false
     sec-argument-validity-proof-proofs: true
     sec-argument-validity-proof-soundness-and-completeness: false
     sec-argument-validity-proof-references-unnumbered: false
@@ -29,12 +30,12 @@ metadata:
     sec-propositional-logic-proofs-in-propositional-logic: false
     sec-propositional-logic-the-soundness-and-completeness-of: false
     sec-propositional-logic-references-unnumbered: false
-    sec-general-notation: false
-    sec-general-notation-the-greek-alphabet: false
-    sec-general-notation-iff: false
-    sec-general-notation-ellipses: false
-    sec-general-notation-sets: false
-    sec-general-notation-references: false
+    sec-general-notation: true
+    sec-general-notation-the-greek-alphabet: true
+    sec-general-notation-iff: true
+    sec-general-notation-ellipses: true
+    sec-general-notation-sets: true
+    sec-general-notation-references: true
     sec-induction: false
     sec-induction-inductive-definitions: false
     sec-induction-proof-by-induction: false
