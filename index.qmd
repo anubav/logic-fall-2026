@@ -42,7 +42,7 @@ This course provides an introduction to logic for students of philosophy. Studen
 ::: {#coursecraft-assignments}
 |  | Assigned | Due |
 | :--- | :--- | :--- |
-| [Homework 1](#){data-hw-stem="hw-01"} | Oct 1 | Oct 6 |
+| [Homework 1](#){data-hw-stem="hw-01"} | Sep 29 | Oct 6 |
 | [Homework 2](#){data-hw-stem="hw-02"} | Oct 6 | Oct 13 |
 | [Homework 3](#){data-hw-stem="hw-03"} | Oct 13 | Oct 20 |
 | [Exam 1](#){data-hw-stem="hw-04"} | Oct 20 | Oct 27 |
