@@ -1,5 +1,5 @@
 project:
-  output-dir: _book/2026-10-06
+  output-dir: _book/2026-10-11
 book:
   chapters:
   - chapters/00-introduction.qmd
@@ -19,7 +19,7 @@ metadata:
     sec-argument-validity-proof-arguments: true
     sec-argument-validity-proof-validity: true
     sec-argument-validity-proof-proofs: true
-    sec-argument-validity-proof-soundness-and-completeness: false
+    sec-argument-validity-proof-soundness-and-completeness: true
     sec-argument-validity-proof-references-unnumbered: true
     sec-syllogistic-logic: false
     sec-syllogistic-logic-introduction: false
@@ -41,5 +41,5 @@ metadata:
     sec-general-notation-references: true
     sec-induction: true
     sec-induction-inductive-definitions: true
-    sec-induction-proof-by-induction: false
+    sec-induction-proof-by-induction: true
     sec-induction-unique-decomposition: false

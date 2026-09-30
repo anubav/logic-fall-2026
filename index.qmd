@@ -25,6 +25,8 @@ This course provides an introduction to logic for students of philosophy. Studen
 | :--- | :--- |
 | Sep 30 | Arguments |
 | Oct 4 | Validity |
+| Oct 6 | Proofs |
+| Oct 11 | Soundness and Completeness |
 
 ## Assignments
 

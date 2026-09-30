@@ -19,7 +19,7 @@ metadata:
     sec-argument-validity-proof-validity: false
     sec-argument-validity-proof-proofs: false
     sec-argument-validity-proof-soundness-and-completeness: false
-    sec-argument-validity-proof-references-unnumbered: false
+    sec-argument-validity-proof-references-unnumbered: true
     sec-syllogistic-logic: false
     sec-syllogistic-logic-introduction: false
     sec-syllogistic-logic-the-syntax-and-semantics-of-syllogistic-logic: false
