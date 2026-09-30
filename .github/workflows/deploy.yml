@@ -24,6 +24,12 @@ jobs:
     steps:
       - name: Checkout course
         uses: actions/checkout@v4
+      - name: Checkout solutions
+        uses: actions/checkout@v4
+        with:
+          repository: anubav/logic-solutions
+          ssh-key: ${{ secrets.SOLUTIONS_DEPLOY_KEY }}
+          path: solutions
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -45,9 +51,15 @@ jobs:
                   except ValueError:
                       pass
           latest = profiles[-1] if profiles else ''
+          manifest = {}
+          if os.path.exists('coursecraft-manifest.json'):
+              with open('coursecraft-manifest.json') as f:
+                  manifest = json.load(f)
+          start = manifest.get(latest, '') if latest else ''
           with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
               fh.write(f'profiles={json.dumps(profiles)}\n')
               fh.write(f'latest={latest}\n')
+              fh.write(f'start={start}\n')
           EOF
 
       - name: Render active profiles
@@ -65,12 +77,16 @@ jobs:
         run: |
           mkdir -p _book
           LATEST="${{ steps.profiles.outputs.latest }}"
+          START="${{ steps.profiles.outputs.start }}"
+          ANCHOR=""
+          [ -n "$START" ] && ANCHOR="#${START}"
+          URL="./${LATEST}/${ANCHOR}"
           if [ -n "$LATEST" ]; then
             cat > _book/index.html <<HTML
           <!DOCTYPE html>
           <html><head>
-          <meta http-equiv="refresh" content="0; url=./${LATEST}/">
-          <script>window.location.replace('./${LATEST}/');</script>
+          <meta http-equiv="refresh" content="0; url=${URL}">
+          <script>window.location.replace('${URL}');</script>
           </head><body>Redirecting to current lecture...</body></html>
           HTML
           else
