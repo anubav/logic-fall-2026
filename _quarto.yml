@@ -2,7 +2,6 @@ project:
   type: book
 book:
   title: Introduction to Logic
-  author: Anubav Vasudevan
   comments:
     hypothesis: true
   page-navigation: true

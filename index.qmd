@@ -1,15 +1,13 @@
-# Syllabus {.unnumbered}
+This course provides an introduction to logic for students of philosophy. Students will first be introduced to the core concepts of logic: argument, validity, and proof. Understanding of these concepts will be reinforced  through a detailed study of syllogistic and propositional logic, culminating in proofs of the soundness and completeness of proof systems for each. This coures satisfies the Department of Philosophy's logic requirement for the philosophy major. 
+
 
 |  |  |
 | :--- | :--- |
 | **Course** | PHIL 20012/30012: Accelerated Introduction to Logic |
 | **Term** | Fall 2026 |
-| **Instructor** | Anubav Vasudevan |
+| **Instructor** | [Anubav Vasudevan](mailto:anubav@uchicago.edu) |
 | **Location** | Cobb 107 |
 | **Meeting times** | TH 12:30-1:50 |
-
-This course provides an introduction to logic for students of philosophy. Students will first be introduced to the core concepts of logic: argument, validity, and proof. Understanding of these concepts will be reinforced  through a detailed study of syllogistic and propositional logic, culminating in proofs of the soundness and completeness of proof systems for each. This coures satisfies the Department of Philosophy's logic requirement for the philosophy major. 
-
 
 ## Schedule
 
