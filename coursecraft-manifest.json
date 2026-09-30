@@ -1,13 +1,13 @@
 {
-  "2026-09-29": "sec-introduction",
-  "2026-10-01": "sec-argument-validity-proof-introduction",
-  "2026-10-06": "sec-argument-validity-proof-validity",
-  "2026-10-08": "sec-argument-validity-proof-proofs",
-  "2026-10-13": "sec-argument-validity-proof-soundness-and-completeness",
-  "2026-10-20": "sec-syllogistic-logic-introduction",
-  "2026-10-27": "sec-syllogistic-logic-proofs-in-syllogistic-logic",
-  "2026-11-03": "sec-syllogistic-logic-the-extensional-soundness-and-completeness-of",
-  "2026-11-10": "sec-propositional-logic-introduction",
-  "2026-11-17": "sec-propositional-logic-proofs-in-propositional-logic",
-  "2026-12-01": "sec-propositional-logic-the-soundness-and-completeness-of"
+  "2026-09-29": "chapters/00-introduction.html#sec-introduction",
+  "2026-10-01": "chapters/01-argument-validity-proof.html#sec-argument-validity-proof-introduction",
+  "2026-10-06": "chapters/01-argument-validity-proof.html#sec-argument-validity-proof-validity",
+  "2026-10-08": "chapters/01-argument-validity-proof.html#sec-argument-validity-proof-proofs",
+  "2026-10-13": "chapters/01-argument-validity-proof.html#sec-argument-validity-proof-soundness-and-completeness",
+  "2026-10-20": "chapters/02-syllogistic-logic.html#sec-syllogistic-logic-introduction",
+  "2026-10-27": "chapters/02-syllogistic-logic.html#sec-syllogistic-logic-proofs-in-syllogistic-logic",
+  "2026-11-03": "chapters/02-syllogistic-logic.html#sec-syllogistic-logic-the-extensional-soundness-and-completeness-of",
+  "2026-11-10": "chapters/03-propositional-logic.html#sec-propositional-logic-introduction",
+  "2026-11-17": "chapters/03-propositional-logic.html#sec-propositional-logic-proofs-in-propositional-logic",
+  "2026-12-01": "chapters/03-propositional-logic.html#sec-propositional-logic-the-soundness-and-completeness-of"
 }
