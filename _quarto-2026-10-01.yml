@@ -4,7 +4,9 @@ book:
   chapters:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
-  - hw-01.qmd
+  - part: Assignments
+    chapters:
+    - hw-01.qmd
   appendices:
   - appendices/A-general-notation.qmd
   - appendices/B-induction.qmd
