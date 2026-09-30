@@ -209,7 +209,9 @@ $$
     \{2n+1: 0\leq n\leq 4\}
 $$
 
-Note that there is nothing to prevent a set from having other sets among its members---nor is there anything wrong with a set of sets of sets, or a set of sets of sets of sets, etc.
+Note that there is nothing to prevent a set from having other sets among its members---nor is there anything wrong with a set of sets of sets, or a set of sets of sets of sets, etc.^[@exr-russell below describes Russell's famous paradox, revealing the inconsistency of the formalization of naive set theory given by @Frege1893-ld in his _Grundgesetze der Arithmetik_.
+In that work, Frege assumed that any property whatsoever---including the property of not being a member of itself---could be used in the formation of a well-defined set.
+For a detailed discussion of the various approaches adopted by modern formalizations of set theory to avoid Russell's paradox, see @Fraenkel1973-tk.]
 
 ::: {#exr-russell}
 {{< include /exercises/russell.qmd >}}
