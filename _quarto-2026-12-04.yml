@@ -7,7 +7,7 @@ book:
   - chapters/02-syllogistic-logic.qmd
   - chapters/03-propositional-logic.qmd
   - hw-01.qmd
-  - hw-02.qmd
+  - hw-02-solutions.qmd
   - hw-03.qmd
   - hw-04.qmd
   - hw-05.qmd
@@ -40,8 +40,8 @@ metadata:
     sec-propositional-logic: true
     sec-propositional-logic-introduction: true
     sec-propositional-logic-the-syntax-and-semantics-of-propositional-logic: true
-    sec-propositional-logic-proofs-in-propositional-logic: false
-    sec-propositional-logic-the-soundness-and-completeness-of: false
+    sec-propositional-logic-proofs-in-propositional-logic: true
+    sec-propositional-logic-the-soundness-and-completeness-of: true
     sec-propositional-logic-references-unnumbered: true
     sec-general-notation: true
     sec-general-notation-the-greek-alphabet: true

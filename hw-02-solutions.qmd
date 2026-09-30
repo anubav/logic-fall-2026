@@ -1,0 +1,10 @@
+# Homework 2 (with solutions) {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+
+@exr-expressions
+
+{{< include /exercises/expressions.qmd >}}
+
+{{< include /solutions/expressions.qmd >}}
