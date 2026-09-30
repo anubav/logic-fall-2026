@@ -1,0 +1,142 @@
+course:
+  title: Accelerated Introduction to Logic
+  notes_repo: https://github.com/anubav/logic-notes.git
+  solutions_repo: git@github.com:anubav/logic-solutions.git
+
+section:
+  instructor: Anubav Vasudevan
+  instructor_email: anubav@uchicago.edu
+  course_number: PHIL 20012/30012
+  term: Fall 2026
+  location: Cobb 107
+  meeting_times: TH 12:30-1:50
+  start_date: 2026-09-28
+  end_date: 2026-12-15
+  description: >
+    This course provides an introduction to logic for students of philosophy. Students will first be introduced
+    to the core concepts of logic: argument, validity, and proof. Understanding of these concepts will be reinforced 
+    through a detailed study of syllogistic and propositional logic, culminating in proofs of the soundness and completeness
+    of proof systems for each. This coures satisfies the Department of Philosophy's logic requirement for the philosophy major. 
+
+lectures:
+  - part: "Introduction"
+    lectures:
+      - name: "Introduction"
+        date: 2026-09-29
+        sections:
+          - sec-introduction
+          - sec-general-notation
+
+  - part: "Argument, Validity & Proof"
+    lectures:
+      - name: "Arguments"
+        date: 2026-10-01
+        sections:
+          - sec-argument-validity-proof-introduction
+          - sec-argument-validity-proof-arguments
+          - sec-argument-validity-proof-references-unnumbered
+          - sec-induction-inductive-definitions
+      - name: "Validity"
+        date: 2026-10-06
+        sections:
+          - sec-argument-validity-proof-validity
+      - name: "Proofs"
+        date: 2026-10-08
+        sections:
+          - sec-argument-validity-proof-proofs
+      - name: "Soundness and Completeness"
+        date: 2026-10-13
+        sections:
+          - sec-argument-validity-proof-soundness-and-completeness
+          - sec-induction
+
+  - part: "Syllogistic Logic"
+    lectures:
+      - name: "The Syntax and Semantics of Syllogistic Logic"
+        date: 2026-10-20
+        sections:
+          - sec-syllogistic-logic-introduction
+          - sec-syllogistic-logic-the-syntax-and-semantics-of-syllogistic-logic
+          - sec-syllogistic-logic-references-unnumbered
+      - name: "Extensional Semantics and Indirect Proofs"
+        date: 2026-10-27
+        sections:
+          - sec-syllogistic-logic-proofs-in-syllogistic-logic
+      - name: "The Soundness and Completeness of Syllogistic Logic"
+        date: 2026-11-03
+        sections:
+          - sec-syllogistic-logic-the-extensional-soundness-and-completeness-of
+
+  - part: "Propositional Logic"
+    lectures:
+      - name: "Unique Readability and Truth Tables"
+        date: 2026-11-10
+        sections:
+          - sec-propositional-logic-introduction
+          - sec-propositional-logic-the-syntax-and-semantics-of-propositional-logic
+          - sec-propositional-logic-references-unnumbered
+      - name: "Proofs in Propositional Logic"
+        date: 2026-11-17
+        sections:
+          - sec-propositional-logic-proofs-in-propositional-logic
+      - name: "The Soundness and Completeness of Propositional Logic"
+        date: 2026-12-01
+        sections:
+          - sec-propositional-logic-the-soundness-and-completeness-of
+  
+assignments:
+  - name: Homework 1
+    assigned: 2026-10-01
+    due: 2026-10-06
+    exercises:
+      - outside-reading
+      - greek
+      - russell
+  - name: Homework 2
+    assigned: 2026-10-06
+    due: 2026-10-13
+    show_solutions: true
+    exercises:
+      - expressions
+  - name: Homework 3
+    assigned: 2026-10-13
+    due: 2026-10-20
+    exercises:
+      - expressions 
+  - name: Exam 1
+    assigned: 2026-10-20
+    due: 2026-10-27
+    exercises:
+      - expressions
+  - name: Homework 4
+    assigned: 2026-10-27
+    due: 2026-11-03
+    exercises:
+      - expressions
+  - name: Homework 5
+    assigned: 2026-11-03
+    due: 2026-11-10
+    exercises:
+      - expressions 
+  - name: Exam 2
+    assigned: 2026-11-10
+    due: 2026-11-17
+    exercises:
+      - expressions
+  - name: Homework 6
+    assigned: 2026-11-17
+    due: 2026-12-01
+    exercises:
+      - expressions
+  - name: Homework 7
+    assigned: 2026-11-26
+    due: 2026-12-03
+    exercises:
+      - expressions 
+  - name: Exam 3
+    assigned: 2026-12-04
+    due: 2026-12-11
+    exercises:
+      - expressions
+       
+            
