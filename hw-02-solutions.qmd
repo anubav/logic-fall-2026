@@ -7,4 +7,6 @@
 
 {{< include /exercises/expressions.qmd >}}
 
+**Solution:**
+
 {{< include /solutions/expressions.qmd >}}
