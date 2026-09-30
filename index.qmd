@@ -23,7 +23,7 @@ This course provides an introduction to logic for students of philosophy. Studen
 
 | Date | Topic |
 | :--- | :--- |
-| Oct 1 | Proofs |
+| Sep 30 | Arguments |
 | Oct 4 | Soundness and Completeness |
 
 ## Assignments

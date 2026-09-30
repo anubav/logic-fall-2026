@@ -7,16 +7,17 @@ book:
   - hw-01.qmd
   appendices:
   - appendices/A-general-notation.qmd
+  - appendices/B-induction.qmd
 metadata:
   sections:
     sec-introduction: true
     sec-introduction-why-study-logic: true
     sec-introduction-references: true
     sec-argument-validity-proof: true
-    sec-argument-validity-proof-introduction: false
-    sec-argument-validity-proof-arguments: false
+    sec-argument-validity-proof-introduction: true
+    sec-argument-validity-proof-arguments: true
     sec-argument-validity-proof-validity: false
-    sec-argument-validity-proof-proofs: true
+    sec-argument-validity-proof-proofs: false
     sec-argument-validity-proof-soundness-and-completeness: true
     sec-argument-validity-proof-references-unnumbered: false
     sec-syllogistic-logic: false
@@ -37,7 +38,7 @@ metadata:
     sec-general-notation-ellipses: true
     sec-general-notation-sets: true
     sec-general-notation-references: true
-    sec-induction: false
-    sec-induction-inductive-definitions: false
+    sec-induction: true
+    sec-induction-inductive-definitions: true
     sec-induction-proof-by-induction: false
     sec-induction-unique-decomposition: false
