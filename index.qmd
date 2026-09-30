@@ -33,8 +33,19 @@ This course provides an introduction to logic for students of philosophy. Studen
 | Date | Topic |
 | :--- | :--- |
 | Oct 20 | The Syntax and Semantics of Syllogistic Logic |
-| Oct 27 | Proofs in Syllogistic Logic |
+| Oct 27 | Extensional Semantics and Indirect Proofs |
 | Nov 3 | The Soundness and Completeness of Syllogistic Logic |
+
+### Propositional Logic
+
+| Date | Topic |
+| :--- | :--- |
+| Nov 10 | Unique Readability and Truth Tables |
+
+| Date | Topic |
+| :--- | :--- |
+| Nov 17 | Proofs in Propositional Logic |
+| Dec 1 | The Soundness and Completeness of Propositional Logic |
 
 ## Assignments
 

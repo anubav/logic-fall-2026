@@ -5,6 +5,7 @@ book:
   - chapters/00-introduction.qmd
   - chapters/01-argument-validity-proof.qmd
   - chapters/02-syllogistic-logic.qmd
+  - chapters/03-propositional-logic.qmd
   - hw-01.qmd
   - hw-02.qmd
   - hw-03.qmd
@@ -35,12 +36,12 @@ metadata:
     sec-syllogistic-logic-proofs-in-syllogistic-logic: true
     sec-syllogistic-logic-the-extensional-soundness-and-completeness-of: true
     sec-syllogistic-logic-references-unnumbered: true
-    sec-propositional-logic: false
-    sec-propositional-logic-introduction: false
-    sec-propositional-logic-the-syntax-and-semantics-of-propositional-logic: false
+    sec-propositional-logic: true
+    sec-propositional-logic-introduction: true
+    sec-propositional-logic-the-syntax-and-semantics-of-propositional-logic: true
     sec-propositional-logic-proofs-in-propositional-logic: false
     sec-propositional-logic-the-soundness-and-completeness-of: false
-    sec-propositional-logic-references-unnumbered: false
+    sec-propositional-logic-references-unnumbered: true
     sec-general-notation: true
     sec-general-notation-the-greek-alphabet: true
     sec-general-notation-iff: true
@@ -50,4 +51,4 @@ metadata:
     sec-induction: true
     sec-induction-inductive-definitions: true
     sec-induction-proof-by-induction: true
-    sec-induction-unique-decomposition: false
+    sec-induction-unique-decomposition: true

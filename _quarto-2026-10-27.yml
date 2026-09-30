@@ -46,4 +46,4 @@ metadata:
     sec-induction: true
     sec-induction-inductive-definitions: true
     sec-induction-proof-by-induction: true
-    sec-induction-unique-decomposition: false
+    sec-induction-unique-decomposition: true
