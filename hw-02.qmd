@@ -4,6 +4,18 @@
 
 **Due: October 13, 2026**
 
+@exr-denoting-sets
+
+{{< include /exercises/denoting-sets.qmd >}}
+
+@exr-power-set
+
+{{< include /exercises/power-set.qmd >}}
+
 @exr-expressions
 
 {{< include /exercises/expressions.qmd >}}
+
+@exr-relative-validity
+
+{{< include /exercises/relative-validity.qmd >}}

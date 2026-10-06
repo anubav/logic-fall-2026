@@ -98,7 +98,10 @@ assignments:
     due: 2026-10-13
     show_solutions: true
     exercises:
+      - denoting-sets
+      - power-set
       - expressions
+      - relative-validity
   - name: Homework 3
     assigned: 2026-10-13
     due: 2026-10-20

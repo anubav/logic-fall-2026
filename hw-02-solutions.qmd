@@ -3,6 +3,22 @@
 {{< include /assets/macros/macros.qmd >}}
 
 
+@exr-denoting-sets
+
+{{< include /exercises/denoting-sets.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/denoting-sets.qmd >}}
+
+@exr-power-set
+
+{{< include /exercises/power-set.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/power-set.qmd >}}
+
 @exr-expressions
 
 {{< include /exercises/expressions.qmd >}}
@@ -10,3 +26,11 @@
 **Solution:**
 
 {{< include /solutions/expressions.qmd >}}
+
+@exr-relative-validity
+
+{{< include /exercises/relative-validity.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/relative-validity.qmd >}}
