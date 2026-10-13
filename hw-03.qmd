@@ -4,6 +4,18 @@
 
 **Due: October 20, 2026**
 
-@exr-expressions
+@exr-0x1-expressive-power
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/0x1-expressive-power.qmd >}}
+
+@exr-proof-structure
+
+{{< include /exercises/proof-structure.qmd >}}
+
+@exr-characteristic-function
+
+{{< include /exercises/characteristic-function.qmd >}}
+
+@exr-making-change
+
+{{< include /exercises/making-change.qmd >}}

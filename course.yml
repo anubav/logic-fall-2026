@@ -46,7 +46,7 @@ lectures:
         sections:
           - sec-argument-validity-proof-proofs
       - name: "Soundness and Completeness"
-        date: 2026-10-13
+        date: 2026-10-15
         sections:
           - sec-argument-validity-proof-soundness-and-completeness
           - sec-induction
@@ -106,7 +106,10 @@ assignments:
     assigned: 2026-10-13
     due: 2026-10-20
     exercises:
-      - expressions 
+      - 0x1-expressive-power
+      - proof-structure
+      - characteristic-function
+      - making-change 
   - name: Exam 1
     assigned: 2026-10-20
     due: 2026-10-27
