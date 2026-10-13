@@ -49,7 +49,12 @@ jobs:
           if os.path.exists('coursecraft-manifest.json'):
               with open('coursecraft-manifest.json') as f:
                   manifest = json.load(f)
-          start = manifest.get(latest, '') if latest else ''
+          # Find the most recent lecture entry whose date <= the latest profile date.
+          # The latest profile may be a homework due date (not a lecture date),
+          # so an exact lookup would miss it.
+          lecture_dates = sorted(d for d in manifest if d <= latest) if latest else []
+          start_key = lecture_dates[-1] if lecture_dates else ''
+          start = manifest.get(start_key, '') if start_key else ''
           with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
               fh.write(f'profiles={json.dumps(profiles)}\n')
               fh.write(f'latest={latest}\n')
