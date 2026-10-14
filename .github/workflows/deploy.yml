@@ -24,6 +24,12 @@ jobs:
     steps:
       - name: Checkout course
         uses: actions/checkout@v4
+      - name: Checkout solutions
+        uses: actions/checkout@v4
+        with:
+          repository: anubav/logic-solutions
+          ssh-key: ${{ secrets.SOLUTIONS_DEPLOY_KEY }}
+          path: solutions
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
