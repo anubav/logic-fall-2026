@@ -54,7 +54,7 @@ lectures:
   - part: "Syllogistic Logic"
     lectures:
       - name: "The Syntax and Semantics of Syllogistic Logic"
-        date: 2026-10-20
+        date: 2026-10-22
         sections:
           - sec-syllogistic-logic-introduction
           - sec-syllogistic-logic-the-syntax-and-semantics-of-syllogistic-logic

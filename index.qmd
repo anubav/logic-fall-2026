@@ -28,7 +28,7 @@ This course provides an introduction to logic for students of philosophy. Studen
 | Oct 8 | [Proofs](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-proofs) |
 | Oct 15 | [Soundness and Completeness](chapters/01-argument-validity-proof.qmd#sec-argument-validity-proof-soundness-and-completeness) |
 | **Syllogistic Logic** |  |
-| Oct 20 | [The Syntax and Semantics of Syllogistic Logic](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-introduction) |
+| Oct 22 | [The Syntax and Semantics of Syllogistic Logic](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-introduction) |
 | Oct 27 | [Extensional Semantics and Indirect Proofs](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-proofs-in-syllogistic-logic) |
 | Nov 3 | [The Soundness and Completeness of Syllogistic Logic](chapters/02-syllogistic-logic.qmd#sec-syllogistic-logic-the-extensional-soundness-and-completeness-of) |
 | **Propositional Logic** |  |
