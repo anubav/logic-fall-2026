@@ -4,6 +4,22 @@
 
 **Due: October 27, 2026**
 
-@exr-expressions
+@exr-venn-diagrams
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/venn-diagrams.qmd >}}
+
+@exr-binary-strings
+
+{{< include /exercises/binary-strings.qmd >}}
+
+@exr-proofs-in-T
+
+{{< include /exercises/proofs-in-T.qmd >}}
+
+@exr-relative-soundness-completeness
+
+{{< include /exercises/relative-soundness-completeness.qmd >}}
+
+@exr-T-incompleteness
+
+{{< include /exercises/T-incompleteness.qmd >}}
