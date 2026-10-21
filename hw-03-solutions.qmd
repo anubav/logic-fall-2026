@@ -1,0 +1,36 @@
+# Homework 3 (with solutions) {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+
+@exr-0x1-expressive-power
+
+{{< include /exercises/0x1-expressive-power.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/0x1-expressive-power.qmd >}}
+
+@exr-proof-structure
+
+{{< include /exercises/proof-structure.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/proof-structure.qmd >}}
+
+@exr-characteristic-function
+
+{{< include /exercises/characteristic-function.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/characteristic-function.qmd >}}
+
+@exr-making-change
+
+{{< include /exercises/making-change.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/making-change.qmd >}}

@@ -105,6 +105,7 @@ assignments:
   - name: Homework 3
     assigned: 2026-10-13
     due: 2026-10-20
+    show_solutions: true
     exercises:
       - 0x1-expressive-power
       - proof-structure
