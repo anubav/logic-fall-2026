@@ -46,7 +46,7 @@ This course provides an introduction to logic for students of philosophy. Studen
 | [Homework 2](#){data-hw-stem="hw-02"} | Oct 6 | Oct 13 |
 | [Homework 3](#){data-hw-stem="hw-03"} | Oct 13 | Oct 20 |
 | [Exam 1](#){data-hw-stem="hw-04"} | Oct 20 | Oct 27 |
-| [Homework 4](#){data-hw-stem="hw-05"} | Oct 27 | Nov 3 |
+| [Homework 4](#){data-hw-stem="hw-05"} | Oct 28 | Nov 3 |
 | [Homework 5](#){data-hw-stem="hw-06"} | Nov 3 | Nov 10 |
 | [Exam 2](#){data-hw-stem="hw-07"} | Nov 10 | Nov 17 |
 | [Homework 6](#){data-hw-stem="hw-08"} | Nov 17 | Dec 1 |
