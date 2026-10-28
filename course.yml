@@ -121,10 +121,13 @@ assignments:
       - relative-soundness-completeness
       - T-incompleteness
   - name: Homework 4
-    assigned: 2026-10-28
+    assigned: 2026-10-27
     due: 2026-11-03
     exercises:
-      - expressions
+      - set-facts
+      - square-of-opposition
+      - syllogistic-figures
+      - multiplicity-function
   - name: Homework 5
     assigned: 2026-11-03
     due: 2026-11-10

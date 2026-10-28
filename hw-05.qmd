@@ -4,6 +4,18 @@
 
 **Due: November 3, 2026**
 
-@exr-expressions
+@exr-set-facts
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/set-facts.qmd >}}
+
+@exr-square-of-opposition
+
+{{< include /exercises/square-of-opposition.qmd >}}
+
+@exr-syllogistic-figures
+
+{{< include /exercises/syllogistic-figures.qmd >}}
+
+@exr-multiplicity-function
+
+{{< include /exercises/multiplicity-function.qmd >}}
