@@ -1,0 +1,44 @@
+# Exam 1 (with solutions) {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+
+@exr-venn-diagrams
+
+{{< include /exercises/venn-diagrams.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/venn-diagrams.qmd >}}
+
+@exr-binary-strings
+
+{{< include /exercises/binary-strings.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/binary-strings.qmd >}}
+
+@exr-proofs-in-T
+
+{{< include /exercises/proofs-in-T.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/proofs-in-T.qmd >}}
+
+@exr-relative-soundness-completeness
+
+{{< include /exercises/relative-soundness-completeness.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/relative-soundness-completeness.qmd >}}
+
+@exr-T-incompleteness
+
+{{< include /exercises/T-incompleteness.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/T-incompleteness.qmd >}}

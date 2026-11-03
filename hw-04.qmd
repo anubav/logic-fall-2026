@@ -2,7 +2,7 @@
 
 {{< include /assets/macros/macros.qmd >}}
 
-**Due: October 27, 2026**
+**Due: November 2, 2026**
 
 @exr-venn-diagrams
 

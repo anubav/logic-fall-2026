@@ -113,7 +113,8 @@ assignments:
       - making-change 
   - name: Exam 1
     assigned: 2026-10-20
-    due: 2026-10-27
+    due: 2026-11-02
+    show_solutions: true
     exercises:
       - venn-diagrams
       - binary-strings
