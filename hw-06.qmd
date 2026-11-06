@@ -4,6 +4,10 @@
 
 **Due: November 10, 2026**
 
-@exr-expressions
+@exr-S-monotonicity
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/S-monotonicity.qmd >}}
+
+@exr-syllogism-constraints
+
+{{< include /exercises/syllogism-constraints.qmd >}}

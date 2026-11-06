@@ -133,7 +133,8 @@ assignments:
     assigned: 2026-11-04
     due: 2026-11-10
     exercises:
-      - expressions 
+      - S-monotonicity
+      - syllogism-constraints 
   - name: Exam 2
     assigned: 2026-11-10
     due: 2026-11-17
