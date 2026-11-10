@@ -139,7 +139,10 @@ assignments:
     assigned: 2026-11-10
     due: 2026-11-17
     exercises:
-      - expressions
+      - syllogisms-validity
+      - proof-generalization
+      - proofs-in-S
+      - existential-import
   - name: Homework 6
     assigned: 2026-11-17
     due: 2026-12-01

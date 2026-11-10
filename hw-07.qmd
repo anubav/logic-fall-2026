@@ -4,6 +4,18 @@
 
 **Due: November 17, 2026**
 
-@exr-expressions
+@exr-syllogisms-validity
 
-{{< include /exercises/expressions.qmd >}}
+{{< include /exercises/syllogisms-validity.qmd >}}
+
+@exr-proof-generalization
+
+{{< include /exercises/proof-generalization.qmd >}}
+
+@exr-proofs-in-S
+
+{{< include /exercises/proofs-in-S.qmd >}}
+
+@exr-existential-import
+
+{{< include /exercises/existential-import.qmd >}}
