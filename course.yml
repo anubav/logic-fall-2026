@@ -124,6 +124,7 @@ assignments:
   - name: Homework 4
     assigned: 2026-10-27
     due: 2026-11-03
+    show_solutions: true
     exercises:
       - set-facts
       - square-of-opposition

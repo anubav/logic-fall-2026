@@ -1,0 +1,36 @@
+# Homework 4 (with solutions) {.unnumbered}
+
+{{< include /assets/macros/macros.qmd >}}
+
+
+@exr-set-facts
+
+{{< include /exercises/set-facts.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/set-facts.qmd >}}
+
+@exr-square-of-opposition
+
+{{< include /exercises/square-of-opposition.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/square-of-opposition.qmd >}}
+
+@exr-syllogistic-figures
+
+{{< include /exercises/syllogistic-figures.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/syllogistic-figures.qmd >}}
+
+@exr-multiplicity-function
+
+{{< include /exercises/multiplicity-function.qmd >}}
+
+**Solution:**
+
+{{< include /solutions/multiplicity-function.qmd >}}
